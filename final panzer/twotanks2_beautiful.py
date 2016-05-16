@@ -793,7 +793,7 @@ def compute_angle_vel(computer_tank, human_tank):
 	x = human_tank.x - computer_tank.x
 	y = human_tank.y - computer_tank.y
 	while True:
-		angle = random.randint(90, 270)
+		angle = random.randint(225, 270)
 		##print angle, x, y
 		theta = math.radians(angle)
 		vel_square = ((x ** 2) * g) / (-x * math.sin(2 * theta) - 2 * y * (math.cos(theta) ** 2))
