@@ -4,8 +4,11 @@ Title: PANZER
 
 Developed by:
 Aditya Barve
+
 Nikunj Singh
+
 Nupur Malpani
+
 
 Software Requirements:
 	Python 2.7
