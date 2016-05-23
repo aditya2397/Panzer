@@ -2,10 +2,10 @@
 
 Title: PANZER
 
-Developed by:	
-	Nikunj Singh(111403076)
-	Nupur Malpani(111303028)
-	Aditya Barve(111403080)
+Developed by:
+Aditya Barve
+Nikunj Singh
+Nupur Malpani
 
 Software Requirements:
 	Python 2.7
