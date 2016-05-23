@@ -3,11 +3,12 @@
 Title: PANZER
 
 Developed by:
-Aditya Barve
 
-Nikunj Singh
+	Aditya Barve
 
-Nupur Malpani
+	Nikunj Singh
+
+	Nupur Malpani
 
 
 Software Requirements:
