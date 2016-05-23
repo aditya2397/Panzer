@@ -5,9 +5,7 @@ Title: PANZER
 Developed by:
 
 	Aditya Barve
-
 	Nikunj Singh
-
 	Nupur Malpani
 
 
